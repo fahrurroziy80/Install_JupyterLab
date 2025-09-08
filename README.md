@@ -23,5 +23,7 @@
 ### Pastikan environment sudah aktif, lalu jalankan:
     pip install jupyterlab
 # 5️⃣ Jalankan JupyterLab
-
+      jupyter lab
+-Browser akan otomatis terbuka dengan alamat:
+👉 http://localhost:8888/lab
 
